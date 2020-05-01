@@ -22,7 +22,7 @@ main {
 }
 .setWidth {
   flex-basis: 100px;
-  
+  flex-grow: 1;
 }
 footer {
   background-color: #DAEEEF;
